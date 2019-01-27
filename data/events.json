@@ -1,0 +1,1 @@
+[null,{"name":"login","temp":"member","event-type":"6","actions":[{"info":"1","find":"Gracz","storage":"1","varName":"addgracz","name":"Find Role"},{"member":"2","varName2":"member","role":"3","varName":"addgracz","name":"Add Member Role"}]}]
